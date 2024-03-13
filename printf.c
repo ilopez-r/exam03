@@ -16,7 +16,7 @@ int	ft_printstr(char *s)
 	return (i);
 }
 
-int	putnbr(long long nbr, int base)
+int	ft_putnbr(long long nbr, int base)
 {
 	int	i;
 
